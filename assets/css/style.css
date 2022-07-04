@@ -75,7 +75,6 @@
 }
 /*-------------------servicio---------------*/
 .servicio{
-    border: 1px solid blue;
     width: 48%;
     margin: 10px 0;
     display: flex;
@@ -86,7 +85,6 @@
     border-radius: 10px;
 }
 .servicioH3img{
-    border: 1px solid black;
     height: 100%;
     width: 60%;
     display: flex;
@@ -97,7 +95,6 @@
     text-align: center;
 }
 .srvcImgCont{
-    border: 1px solid black;
     width: 85%;
     height: 45%;
 }
